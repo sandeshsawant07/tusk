@@ -1,7 +1,4 @@
 Welcome to Test File.
 We are adding new line.
-Test Line 3
-Test Line 5 >> New addition from branch
-Test Line 4
-Test Line 6 >> new Addition from branch
+
 
